@@ -19,63 +19,66 @@
   </a>
 </p>
 
+
 ---
 
-## 🧊 ✨ About The Project
+---
 
-```diff
-+ PocketPal is a modern, visually stunning expense tracker
-+ designed with a premium fintech UI experience.
+## 🧠 💡 Tech Stack
 
-+ It helps users track spending, analyze habits,
-+ and improve financial discipline with smart insights.
-🚀 🔥 Features
+| Tech        | Usage              |
+|------------|-------------------|
+| HTML       | Structure         |
+| CSS        | Styling (Glass UI)|
+| JavaScript | Logic & Features  |
+| Chart.js   | Data Visualization|
+
+---
+
+## 🎨 ⚡ UI Highlights
+
+✨ Glassmorphism Design  
+✨ Smooth animations  
+✨ Neon gradients  
+✨ Micro-interactions  
+
+---
+
+## 📸 Preview
+
 <p align="center">
-✨ Glassmorphism UI
-⚡ Smooth animations & transitions
-🤖 AI-like spending insights
-🎉 Confetti celebration effects
-📊 Real-time expense tracking
-🌙 Dark mode ready
-📱 Fully responsive design
-
+  <img src="https://via.placeholder.com/800x400?text=PocketPal+Preview" />
 </p>
-🎨 ⚡ UI / UX Highlights
-Design Style:
-  - Glassmorphism
-  - Neon Gradients
-  - Dark Premium Theme
 
-Experience:
-  - Micro-interactions
-  - Smooth animations
-  - Clean layout
+---
 
-Goal:
-  - Feel like a real fintech startup product
-📸 🔥 Preview
-<p align="center"> <img src="https://via.placeholder.com/900x450?text=PocketPal+UI+Preview" /> </p>
-🧠 💡 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p> <p align="center"> ⚙️ HTML • 🎨 CSS • ⚡ JavaScript • 📊 Chart.js </p>
-🌐 🚀 Live Project
-<p align="center"> 🔗 https://darjihoney02-web.github.io/pocketpal/ </p>
-👨‍💻 🚀 Developer
-<p align="center"> <b>Honey Darji</b><br> 🎓 BCA Student • 💻 AI Developer • 🏆 Hackathon Builder </p>
-🔗 💼 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINK"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:YOUR-EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"> </a> </p>
-⭐ 💙 Support
-<p align="center">
+## 🧑‍💻 👨‍🚀 Author
+
+**Honey Darji** 🚀  
+🎓 BCA Student | 💻 AI Developer | 🏆 Hackathon Enthusiast  
+
+---
+
+## 🔗 🌐 Connect With Me
+
+📧 Email: **your-email@gmail.com**  
+💼 LinkedIn: **https://www.linkedin.com/in/your-link/**  
+
+---
+
+## ⭐ 🌟 Support
+
 If you like this project:
 
-⭐ Star the repo
-🔁 Share it
-🚀 Follow for more
+💖 Star this repo  
+🔁 Share with friends  
+🚀 Follow for more projects  
 
+---
+
+<p align="center">
+  💙 Built with passion + late night coding ☕
 </p>
-<!-- 🔥 FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:7c3aed&height=120&section=footer"/> </p> ```
-🔥 FINAL STEP (IMPORTANT)
-👉 Replace:
 
-YOUR-LINK → your LinkedIn
 
-YOUR-EMAIL@gmail.com → your real email
+
