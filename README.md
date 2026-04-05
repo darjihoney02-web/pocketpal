@@ -1,6 +1,6 @@
 <!-- 🔥 HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:7c3aed&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:7c3aed&height=150&section=header"/>
 </p>
 <h1 align="center">💸 PocketPal</h1>
 
