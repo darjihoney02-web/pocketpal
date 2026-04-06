@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:9333ea&height=150&section=header"/>
 
+
 </p>
 <h1 align="center">💸 PocketPal</h1>
 
