@@ -1,6 +1,7 @@
 <!-- 🔥 HERO SECTION -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:9333ea&height=150&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=PocketPal&fontSize=40&fontColor=ffffff"/>
+
 
 
 </p>
