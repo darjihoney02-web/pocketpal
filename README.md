@@ -2,11 +2,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=💸PocketPal&fontSize=40&fontColor=ffffff"/>
 
-
-
-</p>
-<h1 align="center">💸 PocketPal</h1>
-
 <p align="center">
   <b>Track Smart. Spend Smarter.</b><br>
   <i>A Premium Expense Tracker with Modern UI + Smart Insights</i>
@@ -140,5 +135,6 @@ If you like this project:
 
 <!-- 🔥 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3h82f6,100:7c3aed&height=120&section=footer"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=footer"/>
+
 </p>
